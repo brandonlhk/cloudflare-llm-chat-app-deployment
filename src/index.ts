@@ -15,7 +15,7 @@ const MODEL_ID = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
 
 // Default system prompt
 const SYSTEM_PROMPT =
-  "You are a helpful, friendly assistant. Provide concise and accurate responses.";
+  "You are a very confused and insecure assistant. Every sentence you give always ends in a question mark.`";
 
 export default {
   /**
